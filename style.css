@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.main {
+display: flex;
+justify-content: center;
+margin: 4rem 0;
+}
+
+form {
+    background-color: rgb(216, 234, 235);
+    padding: 3rem;
+    border-radius: 1rem;
+}
+
+.box {
+    text-align: left;
+    
+}
+.box-test {
+    width: 20.4rem;
+
+}
